@@ -1,0 +1,4 @@
+train: C:/Users/Charan Sai/yolov7_custom/yolov7-custom/data/DiseaseData/train/images
+val: C:/Users/Charan Sai/yolov7_custom/yolov7-custom/data/DiseaseData/val/images
+nc: 4  # number of classes
+names: ["cancer", "fracture", "NO_fracture", "NOT_cancer"]
